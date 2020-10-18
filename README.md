@@ -1,1 +1,3 @@
-"# modern-projects-with-react" 
+``npm install``
+
+``npm dev``
